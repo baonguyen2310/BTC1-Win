@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\SharpDevelop Projects\BTC1-Win\BTC1-Win\bin\Debug\BTC1-Win.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\BTC1-Win\BTC1-Win\bin\Debug\BTC1-Win.pdb
+C:\Users\Administrator\Documents\SharpDevelop Projects\BTC1-Win\BTC1-Win\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\SharpDevelop Projects\BTC1-Win\BTC1-Win\obj\Debug\BTC1-Win.exe
+C:\Users\Administrator\Documents\SharpDevelop Projects\BTC1-Win\BTC1-Win\obj\Debug\BTC1-Win.pdb
